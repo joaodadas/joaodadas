@@ -1,26 +1,8 @@
-## Hi i´m João Vitor Dadas
-<div align="center">
-  <a href="https://github.com/joaodadas">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodadas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
+# João Vitor Dadas
 
-  ##
-  
- <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-dadas-de-oliveira-925359212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/joaaoziin_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dadasjv@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href=https://open.spotify.com/user/12159908355?si=0499edd92d164743" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  
-   ![Snake animation](https://github.com/joaodadas/joaodadas/blob/output/github-contribution-grid-snake.svg)
-   
- </div>
+Software engineering intern and student at PUCPR with extensive experience in web design. For more than a year I've been developing web sites for several companies. Working always with JavaScript, TypeScript, React, Node and UI/UX
+
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Vitor%20Dadas-231f20?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannalinda)](www.linkedin.com/in/joão-vitor-dadas) 
+[![Gmail Badge](https://img.shields.io/badge/-dadasjv@hotmail.com-231f20?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadasjv@hotmail.com)](mailto:dadasjv@hotmail.com)
   
  
